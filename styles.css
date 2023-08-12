@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #fff;
 }
 
 .search-container {
@@ -79,6 +79,7 @@ nav .btn{
 
 .top-right-nav li {
     margin-left: 20px;
+    
 }
 
 .top-right-nav a {
@@ -109,12 +110,14 @@ nav .btn{
 
 .bottom-left-nav li {
     margin-right: 20px;
+    
 }
 
 .bottom-left-nav a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
+    
 }
 
 /* Bottom right navigation */
@@ -132,12 +135,14 @@ nav .btn{
 
 .bottom-right-nav li {
     margin-left: 20px;
+    
 }
 
 .bottom-right-nav a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
+    
 }
 
 
