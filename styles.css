@@ -94,6 +94,52 @@ nav .btn{
     width:50px;
     cursor:pointer;
 }
+/* Bottom left navigation */
+.bottom-left-nav {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.bottom-left-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.bottom-left-nav li {
+    margin-right: 20px;
+}
+
+.bottom-left-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Bottom right navigation */
+.bottom-right-nav {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.bottom-right-nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.bottom-right-nav li {
+    margin-left: 20px;
+}
+
+.bottom-right-nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
 
 
 
